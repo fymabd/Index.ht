@@ -1,0 +1,41 @@
+{
+  "1117499843896684645": {
+    "title": "تستنق",
+    "description": "تست",
+    "buttons": [
+      {
+        "label": "زر 1",
+        "color": "PRIMARY",
+        "category": null,
+        "role": null,
+        "title": "عنوان التذكرة 1",
+        "description": "وصف التذكرة 1"
+      },
+      {
+        "label": "زر 2",
+        "color": "PRIMARY",
+        "category": null,
+        "role": null,
+        "title": "عنوان التذكرة 2",
+        "description": "وصف التذكرة 2"
+      },
+      {
+        "label": "زر 3",
+        "color": "PRIMARY",
+        "category": null,
+        "role": null,
+        "title": "عنوان التذكرة 3",
+        "description": "وصف التذكرة 3"
+      },
+      {
+        "label": "زر 4",
+        "color": "PRIMARY",
+        "category": null,
+        "role": null,
+        "title": "عنوان التذكرة 4",
+        "description": "وصف التذكرة 4"
+      }
+    ],
+    "type": "select_menu"
+  }
+}
